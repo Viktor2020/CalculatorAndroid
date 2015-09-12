@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ex2015_07_26</string>
+    <string name="button_restore">Restore</string>
+    <string name="button_save">Save</string>
+    <string name="checkbox_exit_type">Out with dialog</string>
+    <string name="clearOneCharacter">←</string>
+    <string name="bin">2</string>
+    <string name="oct">8</string>
+    <string name="exit_toast_text">To exit, click the \"Back \" button again</string>
+    <string name="test">Test</string>
+    <string name="toast_saved">Saved</string>
+    <string name="dec">10</string>
+    <string name="btnsin">sin</string>
+    <string name="btnx2">x^2</string>
+    <string name="x13">x^(1/3)</string>
+    <string name="btnC">C</string>
+    <string name="btnPlazOrMin">+/-</string>
+    <string name="btnMult">*</string>
+    <string name="btnXY">x^y</string>
+    <string name="btnnoX">x!</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btnDiv">/</string>
+    <string name="btnLn">ln</string>
+    <string name="btn1divX">1/x</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btnPlus">+</string>
+    <string name="btnPi">Pi</string>
+    <string name="btnLog">log</string>
+    <string name="btnProcent">%</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btnMin">-</string>
+    <string name="btnExp">exp</string>
+    <string name="btnOpenBreck">(</string>
+    <string name="btnCloseBreck">)</string>
+    <string name="btn0">0</string>
+    <string name="btnComa">.</string>
+    <string name="btnSqrt">√</string>
+    <string name="btnResult">=</string>
+    <string name="imgImageExitIcon">картинка</string>
+    <string name="btn7">7</string>
+    <string name="btncos">cos</string>
+    <string name="btnTg">tan</string>
+    <string name="error_text_toast">Incorrect login or password</string>
+    <string name="textLinkLogin">Login here</string>
+    <string name="textLogin">Login</string>
+    <string name="textPassword">Password</string>
+    <string name="btnRegistration">Registration</string>
+    <string name="textLinkRegistration">Register here</string>
+    <string name="btnLogin">Login</string>
+</resources>
