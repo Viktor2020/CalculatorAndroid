@@ -41,8 +41,7 @@ public class UserDao {
     }
 
     public Cursor getCursor() {
-        Cursor c = database.query(DBHelper.USER_TABLE, new String[]{DBHelper.USER_NAME_COLUMN, DBHelper.USER_PASSWORD_COLUMN}
-                , null, null, null, null, null);
+        Cursor c = database.query(DBHelper.USER_TABLE, null, null, null, null, null, null);
 
         return c;
     }

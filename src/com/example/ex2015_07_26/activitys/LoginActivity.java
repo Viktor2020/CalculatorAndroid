@@ -41,10 +41,10 @@ public class LoginActivity extends Activity implements View.OnClickListener {
 
         userListView = (ListView) findViewById(R.id.user_list);
 
-        UserAdapter userAdapter = new UserAdapter(getApplicationContext(),R.layout.activity_login
+        UserAdapter userAdapter = new UserAdapter(getApplicationContext(),R.layout.item
                 , dbHelper.getUserDao().getCursor()
                 , new String[]{ BaseColumns._ID,DBHelper.USER_NAME_COLUMN, DBHelper.USER_PASSWORD_COLUMN}
-                , new int[]{R.id.user_id, R.id.user_name, R.id.user_password}
+                , new int[]{R.id.item_id, R.id.item_name, R.id.item_password}
                 , 1);
 
         userListView.setAdapter(userAdapter);
